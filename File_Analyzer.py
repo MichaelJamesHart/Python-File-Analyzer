@@ -1,5 +1,4 @@
 #Michael Hart
-#Final - Lab
 #5/8/2019
 
 # Create the class called FileAnalyzer.
